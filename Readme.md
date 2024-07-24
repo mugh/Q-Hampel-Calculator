@@ -4,7 +4,7 @@ It will output Robust mean (x*) using hampel estimator with finite step and Robu
 
 
 # Usage
-Download from realease page, unzip. Double click on qhampel.exe and wait for the result. The application need input data from data.csv file. Put your data in included data.csv.
+Download from release page, unzip. Double click on qhampel.exe and wait for the result. The application need input data from data.csv file. Put your data in included data.csv.
 
 
 # Data.csv format
