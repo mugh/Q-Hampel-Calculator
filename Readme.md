@@ -1,4 +1,4 @@
-# Download from realease page [here](https://github.com/mugh/Q-Hampel-Calculator/releases)
+# Download from releases page [here](https://github.com/mugh/Q-Hampel-Calculator/releases)
 Two version available, .exe version and excel-addins version
 
 
