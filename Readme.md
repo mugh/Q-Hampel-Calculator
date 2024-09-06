@@ -35,10 +35,10 @@ Decimal value shall be using point (.)
 
 
 # Excel-Addins Version
-## Usage
+## Installation
 Run the setup files
 
-## How to use :
+## Usage :
 After finish install, it will create a new tab called qhampel in your excel.
 Make ready your data in a sheet, click start calc from qhampel tab, it will ask your data range and after that choose at what cell the result will output
 
