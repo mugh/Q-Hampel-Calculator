@@ -1,14 +1,10 @@
 # Download from realease page [here](https://github.com/mugh/Q-Hampel-Calculator/releases)
-Two version available, .exe version and excel-addins version
-
 
 # Q/Hampel Calculator
 
 This calculator is based on ISO 13528 Robust analysist per annex C.5.4.
 It will output Robust mean (x*) using hampel estimator with finite step and Robust standard deviation (s*) using Q method.
 
-
-# .exe Version
 
 ## Usage
 
@@ -33,19 +29,6 @@ If this the case, open the data.csv using text editor such as notepad++ then pre
 
 Decimal value shall be using point (.)
 
-
-# Excel-Addins Version
-## Usage
-Run install.bat
-
-What it will do:
-1. Checking python installed in your computer or not, else it will installed from the .exe included
-2. copy the qhampel.xlam to XLSTART folder
-3. copy qhampel.py to %userprofile%/qhampel/
-
-## How to use :
-After finish install.bat, it will create a new tab called qhampel in your excel.
-Make ready your data in a sheet, click start calc from qhampel tab, it will ask your data range and after that choose at what cell the result will ouput
 
 
 # Legal usage
