@@ -1,3 +1,4 @@
+
 # Download from releases page [here](https://github.com/mugh/Q-Hampel-Calculator/releases)
 Two version available, .exe version and excel-addins version
 
@@ -36,7 +37,8 @@ Decimal value shall be using point (.)
 
 # Excel-Addins Version
 ## Installation
-Run the setup files
+Run the setup files. MS Defender might flag it as virus, just turn it off temporary and run the setup file. The file has no virus.
+![Virus scan result](https://raw.githubusercontent.com/mugh/Q-Hampel-Calculator/main/Screenshot%202024-09-06%20222444.png)
 
 ## Usage :
 After finish install, it will create a new tab called qhampel in your excel.
